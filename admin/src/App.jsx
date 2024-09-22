@@ -13,7 +13,7 @@ import Orders from './pages/Orders/Orders'
 function App() {
  
     
-  const url = "http://localhost:4000";
+  const url = "https://food-app-backend-r06x.onrender.com/";
 
   return (
    <>
